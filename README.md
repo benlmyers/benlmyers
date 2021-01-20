@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey, I'm Ben. 👋
 
-<!--
-**benben28405678/benben28405678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for stopping by my GitHub.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Flowductive, an app for daily planning.
+- 📫 Shoot me an email at `benl.myers01@gmail.com`.
+- 😄 Pronouns: he/him/his
+- 🔗 Check out [my website](benlmyers.com).
+- 🔎 Find me on [stack overflow](https://stackoverflow.com/users/12101201/ben-myers)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My language proficiency:
+
+- Swift: **Experienced** 💪
+- Java: **Experienced** 💪
+- Processing: **Experienced** 💪
+- Web: **Knowledgable** 🤔
+- Python: **Newbie** 👶
+- C#: **Newbie** 👶
+- C++: **Newbie** 👶
+- English: **Fluent** 👍
