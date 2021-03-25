@@ -5,7 +5,7 @@ Thanks for stopping by my GitHub.
 - 🔭 I’m currently working on Flowductive, an app for daily planning.
 - 📫 Shoot me an email at `benl.myers01@gmail.com`.
 - 😄 Pronouns: he/him/his
-- 🔗 Check out [my website](http://benlmyers.com) (currently under revision, will be back up soon!).
+- 🔗 Check out ~~[my website](http://benlmyers.com)~~ (currently under revision, will be back up soon!).
 - 🔎 Find me on [stack overflow](https://stackoverflow.com/users/12101201/ben-myers)!
 
 My language proficiency:
