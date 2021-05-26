@@ -20,3 +20,7 @@ My language proficiency:
 - English: **Fluent** 👍
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=benlmyers&count_private=true&show_icons=true&theme=dark)
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=benlmyers.benlmyers" alt="visitor badge"/>
+</p>
