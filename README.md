@@ -18,3 +18,5 @@ My language proficiency:
 - C#: **Newbie** 👶
 - C++: **Newbie** 👶
 - English: **Fluent** 👍
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=benlmyers&count_private=true&show_icons=true&theme=dark)
