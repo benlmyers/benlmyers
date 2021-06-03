@@ -13,10 +13,11 @@ My language proficiency:
 - Swift: **Experienced** 💪
 - Java: **Experienced** 💪
 - Processing: **Experienced** 💪
-- Web: **Knowledgable** 🤔
-- Python: **Newbie** 👶
-- C#: **Newbie** 👶
-- C++: **Newbie** 👶
+- Web: **Knowledgeable** 🤔
+- JS: **Knowledgeable** 🤔
+- Python: **Novice** 👶
+- C#: **Novice** 👶
+- C++: **Novice** 👶
 - English: **Fluent** 👍
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=benlmyers&count_private=true&show_icons=true&theme=dark)
