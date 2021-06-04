@@ -26,4 +26,4 @@ My language proficiency:
   <img src="https://visitor-badge.glitch.me/badge?page_id=benlmyers.benlmyers" alt="visitor badge"/>
 </p>
 
-![Metrics](https://metrics.lecoq.io/benlmyers?template=classic&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FLos_Angeles)
+![Metrics](https://metrics.lecoq.io/benlmyers?template=classic&base.repositories=0&base.metadata=0&config.timezone=America%2FLos_Angeles)
