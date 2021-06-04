@@ -26,7 +26,4 @@ My language proficiency:
   <img src="https://visitor-badge.glitch.me/badge?page_id=benlmyers.benlmyers" alt="visitor badge"/>
 </p>
 
-<!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/benlmyers/benlmyers/blob/master/github-metrics.svg)
-<!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/benlmyers/benlmyers/blob/main/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/benlmyers?template=classic&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FLos_Angeles)
