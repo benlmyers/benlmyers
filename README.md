@@ -25,5 +25,3 @@ My language proficiency:
 <p align="left">
   <img src="https://visitor-badge.glitch.me/badge?page_id=benlmyers.benlmyers" alt="visitor badge"/>
 </p>
-
-![Metrics](https://github.com/benlmyers/benlmyers/blob/main/github-metrics.svg)
