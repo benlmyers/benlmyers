@@ -1,4 +1,5 @@
-### Hey, I'm Ben. 👋
+<h1 align="center">Hi 👋, I'm Ben</h1>
+<h3 align="center">A curious iOS developer from Los Angeles</h3>
 
 Thanks for stopping by my GitHub.
 
