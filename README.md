@@ -3,7 +3,7 @@
 
 Thanks for stopping by my GitHub.
 
-- 🔭 I’m currently working on Flowductive, an app for daily planning.
+- 🔭 I’m currently working on [Flowductive](https://www.flowductive.com), an app for daily planning.
 - 📫 Shoot me an email at `benl.myers01@gmail.com`.
 - 😄 Pronouns: he/him/his
 - 🔗 Check out [my website](https://benlmyers.com).
