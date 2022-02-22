@@ -7,6 +7,7 @@ Thanks for stopping by my GitHub.
 - 📫 Shoot me an email at `benl.myers01@gmail.com`.
 - 😄 Pronouns: he/him/his
 - 🔗 Check out [my website](https://benlmyers.com).
+- 📚 Take a look at [my blog](https://www.benlmyers.com/blog/).
 - 🔎 Find me on [stack overflow](https://stackoverflow.com/users/12101201/ben-myers)!
 
 My language proficiency:
