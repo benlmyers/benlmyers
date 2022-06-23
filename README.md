@@ -12,7 +12,7 @@ Thanks for stopping by my GitHub.
 
 My language proficiency:
 
-- Swift: **Experienced** 💪
+- Swift: **My specialty** 👨‍🍳
 - Java: **Experienced** 💪
 - Processing: **Experienced** 💪
 - Web: **Knowledgeable** 🤔
