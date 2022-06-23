@@ -26,6 +26,7 @@ My language proficiency:
 
 <p align="left">
   <img src="https://visitor-badge.glitch.me/badge?page_id=benlmyers.benlmyers" alt="visitor badge"/>
+  <a href="https://996.icu"><img src="https://img.shields.io/badge/support-996.icu-red.svg" alt="996.icu" /></a>
 </p>
 
 ⭐️📦🙏 Please support me by [checking out my swift packages](https://swiftpackageindex.com/search?query=Flowductive) <3
