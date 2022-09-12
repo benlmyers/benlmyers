@@ -12,15 +12,17 @@ Thanks for stopping by my GitHub.
 
 My language proficiency:
 
-- Swift: **My specialty** 👨‍🍳
-- Java: **Experienced** 💪
-- Processing: **Experienced** 💪
-- Web: **Knowledgeable** 🤔
-- JS: **Knowledgeable** 🤔
-- Python: **Novice** 👶
-- C#: **Novice** 👶
-- C++: **Novice** 👶
-- English: **Fluent** 👍
+- 🕊 Swift: **My specialty** 👨‍🍳
+- ☕️ Java: **Experienced** 💪
+- 🧵 Processing: **Experienced** 💪
+- 🐍 Python: **Experienced** 💪
+- 🧮 C++: **Experienced** 💪
+- 🌐 Web: **Knowledgeable** 🤔
+- 🦀 Rust: **Knowledgeable** 🤔
+- 📃 JS: **Knowledgeable** 🤔
+- #️⃣ C#: **Novice** 👶
+- 🎯 Objective-C: **Novice** 👶
+- 😄 English: **Fluent** 👍
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=benlmyers&count_private=true&show_icons=true&theme=dark)
 
